@@ -64,7 +64,3 @@ header{
     font-size: 18px;
 }
 
-#imageBox a:hover {
-    animation: shake 0.5s;
-    animation-iteration-count: infinite
-}
